@@ -1,0 +1,101 @@
+,League,Sport,Revenue,Year,Country1,Country2,Row,RevOrd,Label
+0,National Football League (NFL),American football,17035,22,United States,,League,17,NFL
+1,Major League Baseball (MLB),Baseball,9780,19,United States,Canada,League,9,MLB
+2,National Basketball Association (NBA),Basketball,9541,22,United States,Canada,League,9,NBA
+3,Premier League (EPL),Association football,6100,22,England,Wales,League,6,EPL
+4,National Hockey League (NHL),Ice hockey,4920,22,United States,Canada,League,4,NHL
+5,Campeonato Nacional de Liga de Primera División (La Liga),Association football,3400,22,Spain,,League,3,La Liga
+6,Fußball-Bundesliga (Bundesliga),Association football,3000,22,Germany,,League,3,Bundesliga
+7,Lega Nazionale Professionisti Serie A (Serie A),Association football,2300,22,Italy,,League,2,Serie A
+8,Championnat de France de football (Ligue 1),Association football,1700,22,France,Monaco,League,1,Ligue 1
+9,Major League Soccer (MLS),Association football,1490,22,United States,Canada,League,1,MLS
+10,Nippon Professional Baseball (NPB),Baseball,1184,16,Japan,,League,1,NPB
+11,Indian Premier League (IPL),Twenty20 cricket,1181,23,India,,League,1,IPL
+12,Australian Football League (AFL),Australian rules football,961,19,Australia,,League,0,AFL
+13,Chinese Football Association Super League (CSL),Association football,945,16,China,,League,0,CSL
+14,Russian Premier League (RPL),Association football,876,19,Russia,,League,0,RPL
+15,J1 League,Association football,860,17,Japan,,League,0,J1 League
+16,Kontinental Hockey League (KHL),Ice hockey,820,17,Russia,Belarus,League,0,KHL
+17,Campeonato Brasileiro Série A (Brasileirão),Association football,783.4,20,Brazil,,League,0,Brasileirão
+18,2. Fußball-Bundesliga (2. Bundesliga),Association football,781.5,19,Germany,,League,0,2. Bundesliga
+19,English Football League Championship (EFL Championship),Association football,699.3,21,England,Wales,League,0,EFL Championship
+20,Turkish Süper Lig,Association football,670,19,Turkey,,League,0,Turkish Süper Lig
+21,Eredivisie,Association football,578,19,Netherlands,,League,0,Eredivisie
+22,Chinese Basketball Association (CBA),Basketball,575.8,16,China,,League,0,CBA
+23,Liga MX,Association football,555,19,Mexico,,League,0,Liga MX
+24,Primeira Liga,Association football,524,19,Portugal,,League,0,Primeira Liga
+25,Liga Profesional de Fútbol,Association football,490.8,19,Argentina,,League,0,Primera División
+26,Belgian First Division A,Association football,445,19,Belgium,,League,0,Pro League
+27,Korea Baseball Organization League (KBO League),Baseball,396.3,18,South Korea,,League,0,KBO League
+28,Lega Nazionale Professionisti B (Serie B),Association football,353,18,Italy,,League,0,Serie B
+29,National Rugby League (NRL),Rugby league football,342.8,20,Australia,New Zealand,League,0,NRL
+30,Championnat de France de rugby à XV (Top 14),Rugby union football,337.2,18,France,,League,0,Top 14
+31,Campeonato Nacional de Liga de Segunda División (LaLiga2),Association football,326.8,18,Spain,,League,0,La Liga 2
+32,K League,Association football,287,19,South Korea,,League,0,K League
+33,J2 League,Association football,262,15,Japan,,League,0,J2 League
+34,Saudi Professional League (SPL),Association football,254.6,17,Saudi Arabia,,League,0,SPL
+35,Premiership Rugby,Rugby union football,251.4,16,England,,League,0,Premiership Rugby
+36,Scottish Premiership (SPL),Association football,237,19,Scotland,,League,0,Scottish Premiership
+37,Swiss Super League,Association football,230,19,Switzerland,Liechtenstein,League,0,Swiss Super League
+38,Austrian Football Bundesliga,Association football,224,19,Austria,,League,0,Austrian Bundesliga
+39,Championnat de France de football de Ligue 2 (Ligue 2),Association football,219,17,France,,League,0,
+40,English Football League One (EFL League One),Association football,215.5,19,England,Wales,League,0,
+41,Danish Superliga,Association football,197,19,Denmark,,League,0,
+42,Swedish Hockey League (SHL),Ice hockey,183,19,Sweden,,League,0,
+43,Categoria Primera A,Association football,176,–,Colombia,,League,0,
+44,Big Bash League,Twenty20 cricket,173,19,Australia,,League,0,
+45,National League (NL),Ice hockey,167,14,Switzerland,,League,0,
+46,Allsvenskan,Association football,156,19,Sweden,,League,0,
+47,B1 League,Basketball,153.4,18,Japan,,League,0,
+48,Basketball Bundesliga (BBL),Basketball,153,23,Germany,,League,0,
+49,Eliteserien,Association football,152,17,Norway,,League,0,
+50,Ekstraklasa,Association football,152,17,Poland,,League,0,
+51,Canadian Football League (CFL),Canadian football,143,18,Canada,,League,0,
+52,3. Fußball-Liga (3. Liga),Association football,143,18,Germany,,League,0,
+53,Deutsche Eishockey Liga (DEL),Ice hockey,136,19,Germany,,League,0,
+54,Lega Italiana Calcio Professionistico (Serie C),Association football,126,18,Italy,,League,0,
+55,Liga de la Asociación de Clubs de Baloncesto (Liga ACB),Basketball,120.4,17,Spain,Andorra,League,0,
+56,Championnat de France de rugby à XV de 2e division (Rugby Pro D2),Rugby union football,119.7,18,France,,League,0,
+57,Kazakhstan Premier League,Association football,118,17,Kazakhstan,,League,0,
+58,Superleague Greece,Association football,118,17,Greece,,League,0,
+59,Liiga,Ice hockey,117,19,Finland,,League,0,
+60,Chilean Primera Division,Association football,113,–,Chile,,League,0,
+61,Caribbean Premier League (CPL),Twenty20 cricket,112,18,West Indies,,League,0,
+62,South African Premier Division,Association football,53.4,20,South Africa,,League,0,
+63,Israeli Premier League,Association football,108,17,Israel,,League,0,
+64,Handball-Bundesliga (HBL),Handball,105,19,Germany,,League,0,
+65,English Football League Two (EFL League Two),Association football,102.7,19,England,Wales,League,0,
+66,Ligue Nationale de Basket Pro A (LNB Pro A),Basketball,96.3,19,France,,League,0,
+67,Egyptian Premier League,Association football,95,–,Egypt,,League,0,
+68,Super Rugby,Rugby union football,94,18,Australia,New Zealand,League,0,
+69,Nemzeti Bajnokság I,Association football,89,17,Hungary,,League,0,
+70,Ukrainian Premier League (UPL),Association football,89,17,Ukraine,,League,0,
+71,EuroLeague,Basketball,87,22,Europe,,League,0,
+72,Czech First League,Association football,74,17,Czech Republic,,League,0,
+73,Mexican Pacific League (Liga Mexicana del Pacífico; LMP),Baseball,72,13,Mexico,,League,0,
+74,Liga I,Association football,71,17,Romania,,League,0,
+75,Indian Super League (ISL),Association football,65,19,India,,League,0,
+76,A-League,Association football,63,18,Australia,New Zealand,League,0,
+77,Eerste Divisie,Association football,61,15,Netherlands,,League,0,
+78,Super League,Rugby league football,60,15,England,France,League,0,
+79,Cypriot First Division,Association football,60,17,Cyprus,,League,0,
+80,Women's National Basketball Association (WNBA),Basketball,53.8,19,United States,,League,0,
+81,Bangladesh Premier League,Twenty20 cricket,53.5,17,Bangladesh,,League,0,
+82,Croatian First Football League (1. HNL),Association football,42,17,Croatia,,League,0,
+83,Vyšejšaja Liha (Belarusian Premier League),Association football,41,17,Belarus,,League,0,
+84,First Professional Football League (Bulgarian First League),Association football,40,17,Bulgaria,,League,0,
+85,LNB Pro B,Basketball,38.5,19,France,,League,0,
+86,J3 League,Association football,35,15,Japan,,League,0,
+87,UAE Pro League,Association football,34.7,14,United Arab Emirates,,League,0,
+88,Azerbaijan Premier League,Association football,34,17,Azerbaijan,,League,0,
+89,Serbian SuperLiga,Association football,32,17,Serbia,,League,0,
+90,Slovak Super Liga,Association football,32,17,Slovakia,,League,0,
+91,Persian Gulf Pro League,Association football,29,16,Iran,,League,0,
+92,United Rugby Championship,Rugby union football,26.9,18,Ireland,Italy,League,0,
+93,Primera Categoría Serie A (Ecuadorian Serie A),Association football,25,18,Ecuador,,League,0,
+94,Veikkausliiga,Association football,25,17,Finland,,League,0,
+95,Mexican Baseball League (Liga Mexicana de Béisbol; LMB),Baseball,23,16,Mexico,,League,0,
+96,Russian Volleyball Super League (RVSL),Volleyball,21.9,17,Russia,,League,0,
+97,Women's Premier League (cricket) (WPL),Twenty20 cricket,21.4,23,India,,League,0,
+98,USL Championship (USL),Association football,21,18,United States,,League,0,
+99,Israeli Basketball Premier League (ISBL),Basketball,20,19,Israel,,League,0,
